@@ -8,4 +8,11 @@
   - OpenCV
   - Numpy
 
+## Working:
+**To solve the Sudoku major steps are:**
+1. Preprocessing the image
+2. Finding the sudoku and do Warp perspective
+3. Extracting the cells of the sudoku
+4. Recognising the digits (OCR)
+5. Solve the sudoku
 
