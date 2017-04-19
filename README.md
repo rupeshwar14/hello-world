@@ -5,10 +5,12 @@
 It uses a collection of basic image processing techniques and K-Nearest Neighbors (KNN) algorithm for training and recognition of characters.
 
 
+
 ## Prerequisites:
   - Python 2.7  
   - OpenCV
   - Numpy
+
 
 
 ## Working:
@@ -18,6 +20,7 @@ It uses a collection of basic image processing techniques and K-Nearest Neighbor
 3. Extracting the cells of the sudoku
 4. Recognising the digits (OCR)
 5. Solve the sudoku
+
 
 #### Input Image -
 <img alt="Input Sudoku" src="/Screenshots/Sudoku.jpg?raw=true" width="480px">
